@@ -1,0 +1,27 @@
+
+#add-paper-btn{
+  margin-top: -70px;
+}
+
+#add-lecturer-btn{
+  margin-top: -70px;
+}
+
+#flat_calendar_1, #flat_calendar_2{
+	width: 200px;
+}
+.example {
+	padding: 10px;
+}
+
+.display_area {
+	background-color: #FFFF88
+}
+
+.navitem-right{
+  float: right !important;
+}
+
+.w50{
+  width: 50%;
+}
